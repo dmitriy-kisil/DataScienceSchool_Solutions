@@ -1,0 +1,533 @@
+id;name;category
+A01;Atlanta Constitution;Political Reportage
+A02;Dallas Morning News;Political Reportage
+A03;Chicago Tribune;Political Reportage
+A04;Christian Science Monitor;Political Reportage
+A05;Providence Journal;Political Reportage
+A06;Newark Evening News;Political Reportage
+A07;New York Times;Political Reportage
+A08;Times-Picayune, New Orleans;Political Reportage
+A09;Philadelphia Inquirer;Political Reportage
+A10;Oregonian, Portland;Political Reportage
+A11;Sun, Baltimore;Sports Reportage
+A12;Dallas Morning News;Sports Reportage
+A13;Rocky Mountain News;Sports Reportage
+A14;New York Times;Sports Reportage.
+A15;St. Louis Post-Dispatch;Sports Reportage
+A16;Chicago Tribune;Society Reportage
+A17;Rocky Mountain News;Society Reportage
+A18;Philadelphia Inquirer;Society Reportage
+A19;Sun, Baltimore;Spot News
+A20;Chicago Tribune;Spot News
+A21;Detroit News;Spot News
+A22;Atlanta Constitution;Spot News
+A23;Oregonian, Portland;Spot News
+A24;Providence Journal;Spot News
+A25;San Francisco Chronicle;Spot News
+A26;Dallas Morning News;Financial Reportage
+A27;Los Angeles Times;Financial Reportage
+A28;Wall Street Journal;Financial Reportage
+A29;Dallas Morning News;Cultural Reportage.
+A30;Los Angeles Times;Cultural
+A31;Miami Herald;Cultural Reportage
+A32;San Francisco Chronicle;Cultural Reportage
+A33;Washington Post;Cultural Reportage
+A34;New York Times;News of the Week in Review
+A35;James J. Maguire;A Family Affair
+A36;William Gomberg;Unions and the Anti-Trust Laws
+A37;Time;National Affairs
+A38;Sports Illustrated;A Duel Golfers Will Never Forget
+A39;Newsweek;Sports
+A40;Time;People. Art & Education
+A41;Robert Wallace;This Is The Way It Came About
+A42;Newsweek;National Affairs
+A43A;U. S. News & World Report;Better Times for Turnpikes
+A43B;U. S. News & World Report;A Plan to Free U. S. Gold Supply
+A44A;John Tebbel;Books Go Co-operative
+A44B;Gilbert Chapman;Reading and the Free Society
+B01;Atlanta Constitution;Editorials
+B02;Christian Science Monitor;Editorials
+B03;Detroit News;Editorials
+B04;Miami Herald;Editorials
+B05;Newark Evening News;Editorials
+B06;St. Louis Post-Dispatch;Editorials
+B07;New York Times;Editorials
+B08;Atlanta Constitution;Columns
+B09;Christian Science Monitor;Columns
+B10;Sun. Baltimore;Columns
+B11;Los Angeles Times;Columns
+B12;Newark Evening News;Columns
+B13;Times-Picayune, New Orleans;Columns
+B14;Atlanta Constitution;Columns
+B15;Providence Journal;Letters to the Editor
+B16;Chicago Tribune;Voice of the People
+B17;Newark Evening News;What Readers Have to Say
+B18;New York Times;Letters to the Times
+B19;Philadelphia Inquirer;The Voice of the People
+B20;Nation;Editorials
+B21A;Gerald W. Johnson;The Cult of the Motor Car
+B21B;James Deakin;How Much Fallout Can We Take
+B22;Commonweal;Week by Week
+B23A;William F. Buckley, Jr.;We Shall Return
+B23B;James Burnham;Tangle in Katanga
+B24;Time;Reviews
+B25A;Alexander Werth;Walkout in Moscow
+B25B;Peter Solsich, Jr.;The Armed Superpatriots
+B26;National Review;To the Editor
+B27;Saturday Review;Letters to the Editor
+C01;Chicago Daily Tribune;Reviews
+C02;Christian Science Monitor;Reviews
+C03;New York Times;Reviews
+C04;Providence Journal;Reviews
+C05;Christian Science Monitor;Reviews
+C06;Wall Street Journals;Reviews
+C07;New York Times;Reviews
+C08;Providence Journal;Reviews
+C09;New York Times;Reviews
+C10;Providence Journal;Reviews
+C11;New York Times;Reviews
+C12;Christian Science Monitor;Reviews
+C13;Wall Street Journal;Reviews
+C14;New York Times;Reviews
+C15;Life;Reviews
+C16;Saturday Review;Reviews
+C17;Time;Reviews
+D01;William Pollard;Physicist and Christian
+D02;Schubert Ogden;Christ Without Myth
+D03;Edward E. Kelly;Christian Unity in England
+D04;Jaroslav Pelikan;The Shape of Death
+D05;Perry Miller;Theodore Parker: Apostasy With in Liberalism
+D06;A Howard Kelly;Out of Doubt into Faith
+D06B;Shirley Schuyler;Not as the World Giveth
+D06C;Nathanael Olson;Are You in Orbit?
+D07;Peter Eldersveld;Faith Amid Fear
+D08;Schuyler Cammann;The Magic Square of Three
+D09;Eugene E. Golay;Organizing the Local Church
+D10;Huston Smith;Interfaith Communication: The Contemporary Scene
+D11;Paul Ramsey;War & the Christian Conscience
+D12;Kenneth Underwood and Widen Jacobson;Probing the Ethics of Realtors
+D13A;Donald H. Andrews;The New Science & the New Faith
+D13B;George Bo Longstreet;The Seeming Impossible
+D14;Kenneth S. Latourette;Christianity in a Revolutionary Age
+D15;Ernest Becker;Zen: A Rational critique
+D16A;Anonymous;What the Holy Catholic Bible Teach
+D16B;Harold Brenneman;Notice You May Do As You Please
+D17A;Anonymous;Guideposts: 15th Anniversary Issue
+D17B;J. I. Rivero;The Night Our Paper Died
+E01A;Ben Welder;Henri de Courcy: Jr. Mr. Canada
+E0lB;Joe Welder;The Mark of the Champion
+E02A;Dorothy Schroeder;Plant a Carpet of Bloom
+E02B;Anonymous;Avocado is Something Special
+E03;D. F. Martin;Will Aircraft or Missiles Win Wars?
+E04A;Harris Goldsmith;The Schnabel Pro Arte Trout
+E04B;Robert C. Marsh;The True Sound of a Solid Second
+E04C;R.D.D.;Review of Adam, Giselle
+E05A;Paul Nigro;The Younger Generation
+E05B;Patricia Barney;Use of Common Sense Makes Dogs Acceptable
+E05C;Anonymous;The Malady Lingers On
+E06;Joseph E. Choate;The American Boating Scene
+E07;Paul Larson and Gordon Odegard;How to Design Your Interlocking Frame
+E08;Don Francisco;Formulas and Math Every Hot Rodder Should Know
+E09A;Don McMahan;The Week at Ben White Raceway
+E09B;Edith Shaw;The Picture at Del Mar
+E10;Larry Koller;The New Guns of 61
+E11;Idwal Jones;Santa Cruz Run
+E12;Julia Newman;Travel and Camera USA
+E13;Robert Deardorff;Step by Step through Istanbul
+E14;Ann Carnahan;Nick Manero's Cook-out Barbecue Book
+E15A;Anonymous;Pottery from Old Molds
+E15B;Anonymous;Knitting Knacks
+E16;Hal Kelly;Build Hotei
+E17A;Anonymous;This is the Vacation Cottage You Can Build
+E17B;Patrick K. Snook;Care and Basic Use of the Drill Press
+E18A;Lura W. Watkins;The Bridge Over the Merrimac
+E18B;Boyd B. Stutler;Veteran Philippi Bridge
+E19;Booth Hemingway and Stuart H. Brown;How to Own a Pool and Like It.
+E20;Anonymous;What You Should Know About Air Conditioning
+E21;Richard McCosh;Recreation Site Selection
+E22A;Roy Harris;Roy Harris Salutes Serge Prokofieff
+E22B;Helen Havener;A 30 Years War
+E23;Norman Kent;The Watercolor Art of Roy M. Mason
+E24;Bonnie Prudden;The Dancer & the Gymnast
+E25;Walter Ho Buchsbaum;Advances in Medical Electronics
+E26;Bern Dibner;Oersted & the Discovery of Electromagnetism
+E27A;Mike Bay;What Can Additives Do for Ruminants?
+E27B;James S. Boyd;Which Feed Bunk for You
+E28;John R. Sargent;Where to Aim Your Planning
+E29;Edward A. Walton;On Education for the Interior Designer
+E30;Anonymous;The Attack on Employee Services
+E31A;Jim Dee;Expanding Horizons
+E31B;George Laycock;The Challenge
+E32;E. J. Tangerman;Which Way Up. Technical or Management?
+E33A;Robert Gray;Fifty Houses, One Tank
+E33B;Chet Cunningham;Truck Talk
+E34;Anonymous;The New Look in Signs
+E35;Anonymous;The Industrial Revolution in Housing
+E36;Ethel Norling;Renting a Car in Europe
+F01;Rosemary Blackmon;How Much Do You Tell When You Talk?
+F02;Glenn Infield;America's Secret Poison Gas Tragedy
+F03;Nathan Rapport;I've Been Here Before
+F04;Ruth F. Rosevear;North Country School Cares for the Whole Child
+F05;Richard S. Allen;When Fogg Flew the Mail
+F06A;Alice Ho Austin;Let's Discuss Retirement
+F06B;Harold P. Winchester;What It Means to be Creative
+F07A;Marvin Sentnor and Stephen Hult;How to Have a Successful Honeymoon
+F07B;Ho Walter Yoder;Attitudes Toward Nudity
+F08;Philip Reaves;Who Rules the Marriage Bed?
+F09A;David Martinson;Fantastic Life & Death of the Golden Prostitute.
+F09B;Isel D. Rugget;When It Comes to Carpets
+F10;Jack Kaplan;Therapy by Witchcraft
+F11;Lillian Pompian;Tooth-Straightening Today
+F12;Marian Neater;New Methods of Parapsychology.
+F13;Orlin J. Scoville;Part-time Farming
+F14;Harold Rosenberg;The Trial and Eichmann
+F15;John A. O'Brien;Let's Take Birth Control Out of Politics
+F16;James Boylan;Mutiny
+F17;John Harnsberger and Robert P. Wilkins;Transportation on the Northern Plains
+F18;Bell I. Willy;Home Letters of Johnny Reb & Billy Yank
+Fl9;Tristram P. Coffin;Folklore in the American Twentieth Century
+F20;Kenneth Allsop;The Bootleggers and Their Era
+F21A;Joseph Bernstein;Giant Waves
+F21B;L. Don Leet;Introduction
+F21C;L. Don Leet;The Restless Earth and Its Interiors
+F22;Booton Herndon;From Custer to Korea, the 7th Cavalry
+F23;Barry Goldwater;A Foreign Policy for America
+F24;Peter J. White;Report on Laos
+F25;David Boroff;Jewish Teen-Age Culture
+F26;Amy Lathrop;Pioneer Remedies from Western Kansas
+F27;Creighton Churchill;A Notebook for the Wines of France
+F28;Frank O. Gatell;Doctor Palfrey Frees His Slaves
+F29;Douglass Cater;The Kennedy Look in the Arts
+F30;Frederic A Birmingham;The Ivy League Today
+F31;Edward Do Radin;Lizzie Borden: The Untold Story
+F32;Florence M. Read;The Story of Spelman College
+F33;James Be Conant;Slurs and Suburbs
+F34;Frederic R. Senti and W. Dayton Maclay;Age-old uses of Seeds and Some New Ones
+F35;Ramon F. Adams;The Old-time Cowhand
+F36;Robert Easton and Mackenzie Brown;Lord of Beasts
+F37;Samuel M. Cavert;On the Road to Christian Unity
+F38;Robert Smith;Baseball in America
+F39;Clark E. Vincent;Unmarried mothers
+F40;William Greenleaf;Monopoly on Wheels
+F41;George W. Oakes;Turn Right at the Fountain
+F42;James Baldwin;Nobody Knows My Name
+F43;Frank Getlein and Harold C. Gardiner;Movies, Morals, and Art
+F44;Gibson Winter;The Suburban Captivity of the Churches
+F45;Paul C. Phillips;The Fur Trade
+F46;Russell Baker;An American in Washington
+F47;Clara L. Simerville;Home Visits Abroad
+F48;Paul Ramsey;Christian Ethics & the Sit-In
+G01;Edward P. Lawton;Northern Liberals & Southern Bourbons
+G02;Arthur S. Miller;Toward a Concept of National Responsibility
+G03;Peter Wyden;The Chances of Accidental War
+G04;Eugene Burdick;The Invisible Aborigine
+G05;Terence O'Donnell;Evenings at the Bridge
+G06A;Ruth Berges;William Steinberg, Pittsburgh's Dynamic Conductor
+G06B;Henry W. Koller;German Youth Looks to the Future
+G07;Richard B. Morris;Seven Who Set Our Destiny
+G08;Frank Murphy;New Southern Fiction: Urban or Agrarian?
+G09;Selma J. Cohen;Avant-Garde Choreography
+G10;Clarence Streit;How the Civil War Kept You Sovereign
+G11;Frank Oppenheimer;Science and Fear
+G12;Tom F. Driver;Beckett by the Madeleine
+G13;Charles Glicksberg;Sex in Contemporary Literature
+G14;Helen H. Santmeyer;There Were Fences
+G15;Howard Nemerov;Themes and Methods: Early Storie of Thomas Mann
+G16;John F. Hayward;Mimesis & Symbol in the Arts
+G17;Randall Stewart;A Little History, a Little Honesty
+G18;Charles W. Stork;Verner von Heidenstam
+Gl9;R. F. Shaw;The Private Eye
+G20;Dan McLachlan, Jr.;Communication Networks & Monitoring
+G21;Brainard Cheney;Christianity & the Tragic Vision
+G22;Kenneth Reiner;Coping with Runaway Technology
+G23;William C. Smith;Why Fear Ideas
+G24;Sanchia Thayer;Personality & Moral Leadership
+G25;Stanley Parry;The Restoration of Tradition
+G26;Selma Fraiberg;Two Modern Incest Heroes
+G27;Matthew Josephson;Jean H?lion. The Return from Abstract Art
+G28;Arlin Turner;William Faulkner, Southern Novelist
+G29;Anonymous;References for the Good Society
+G30;Norwood R. Hanson;Copernican & Keplerian Astronomy
+G31;Irving Fineman;Woman of Valor: Life of Henrietta Szold 1860-1945
+G32;Finis Farr;Frank Lloyd Wright
+G33;Virgilia Peterson;A Matter of Life and Death
+G34;Harry Golden;Carl Sandburg
+G35;Dwight D. Eisenhower;Peace With Justice
+G36;DeWitt Copp & Marshall Peck;Betrayal at the UN
+G37;Gordon L. Hall;Golden Boats from Burma
+G38;Bertrand A. Goldgar;The Curse of Party
+G39;Edward Jablonski;Harold Arlen Happy with the Blues
+G40;Gene Fowler;Skyline: A Reporter's Reminiscences of the 1920s.
+G41;Lillian R. Parka and Frances S. Leighton;My Thirty Years Backstairs at the White House
+G42;Harold D. Lasswell;Epilogue
+G43;Robert E. Lane;The Liberties of Wit
+G44;Newton Stallknecht;Ideas and Literature
+G45;W. A. Swanberg;Citizen Hearst: A Biography of W. R. Hearst
+G46;Henry R. Winkler;George Macaulay Trevelyan
+G47;Carry Davis;The World Is My Country
+G48;Francis F. McKinney;Education in Violence
+G49;Paul van K. Thomson;Francis Thompson, a Critical Biography
+G50;Curtis C. Davis;The King's Chevalier
+G51;Ilka Chase;The Carthaginian Rose
+G52;Robert L. Duncan;Reluctant General
+G53;Bertram Lippincott;Indians, Privateers, and High Society
+G54;Mabel W. Wheaton & LeGette Blythe;Thomas Wolfe & His Family
+G55;Ralph E. Flanders;Senator from Vermont,. 112
+G56;Keith F. McKean;The Moral Measure of Literature
+G57;Robin M. Williams, Jr.;Values & Modern Education in the United States
+G58;North Callahan;Daniel Morgan
+G59;Esther R. Clifford;A Knight of Great Renown
+G60;Gertrude Berg & Cherney Berg;Molly and Me
+G61;Donald A. White;Litus Saxonicum
+G62;C. H. Cramer;Newton D. Baker
+G63;George Steiner;The Death of Tragedy
+G64;Mark Eccles;Shakespeare in Warwickshire
+G65;Timothy P. Donovan;Henry Adams & Brooks Adams
+G66;Van Wyck Brooks;From the Shadow of the Mountain
+G67;Mark Schorer;Sinclair Lewis: An American Life
+G68;Harris F. Fletcher;The Intellectual Development of John Milton
+G69;Mark R. Hillegas;Dystopian Science Fiction
+G70;Joseph W. Krutch;If You Don't Mind My Saying So
+G71;Joseph Frank;Andr? Malraux: The Image of Man
+G72;J W. Fulbright;For a Concert of Free
+G73;Carolyn See;The Jazz Musician as Patchen's Hero
+G74;John McCormick;The Confessions of Jean Jacques Krim
+G75;George Garrett;A Wreath for Garibaldi
+H01;U. S Dep't of Commerce;Handbook of Federal Aids to Communities
+H02;U. S. Dep't of State;An Act for International Development
+H03;U. S. 87th Congress;House Document No. 487
+H04;R. I. Legislative Council;State Automobiles & Travel Allowances
+H05;R. I. Leglelative Council;Taxing of Movable Tangible Property
+H06;R. I. Development Council;Annual Report, 1960
+H07;R. I. Legislative Council;linlform Fiscal Year for Municipalities
+H08;John A. Notte, Jr.;R. I. Governor's Proclamations
+H09;U. S. 87th Congress;Public Laws 295, 300, 347
+H10;U. S. Dep't of Defense;Medicine in National Defense
+H11;U. S. Dep't of Commerce;1961 Reaearch Highlights, Nat'1 Bureau of Standards
+H12;U. S. 87th Congress;Legislation on Foreign Rels
+H13;U. S. 87th Congreas;Congressional Record: Extension of Remarks. May 2, 1961
+H14;U. S. Dep't of Health, Education & Welfare;Grants-in-Aid and Other Financial Assistance Programs
+H15;U. S. Office of Civil and Defence Mobilization;The Family Fallout Shelter
+H16;U. S. Reports;Cases AdJudged in the Supreme Court, October Tenm 1960
+H17;U. S. Reports;Cases AdJudged in the Supreme Court, October Tenm 1959-60
+H18;Dean Rusk;The Department of State
+Hl9;Peace Corps;Fact Book
+H20;U. S. Dep't of Agriculture;Development Program for the National Forests
+H21;Dwight D. Eisenhower;Public Papers, 1960-61
+H22;U. S. Dep't of State;U. S. Treatiea and Other International Agreements
+H23;U. S. Federal Communications Commiasion;Pederal Communications Commission Reports
+H24;U. S. Tresaury Dep't;Your Federal Income Tax
+H25;Guggenheim Foundation;Report of the Secretary Gen'1
+H26;Anonymous;A Brief Background of Brown & Sharpe
+H27A;Robert Leeson;Leesona Corporation President's Report
+H27B;Leesona Corporation;More Efficient Production for Expanding Textile Markets
+H28;Carleton College;Carleton College Bulletin
+H29;Sprague Electric Company;Sprague Log
+H30;Carnegie Foundation;Annual Report of Year Ending June 30, 1961
+J01;Cornell H. Mayer;Radio. Emission of the Moon and Planets
+J02;R. C. Binder et al.;1961 Heat Transfer & Fluid Mechanics Institute
+J03;Harry H. Hull;Normal Forces & Their Thermodynamic Significance
+J04;James A. Ibers et al.;Proton Magnetic Resonance Study
+J05;John R. Van Wazer, ed.;Phosphorus and Its Compounds
+J06;Francis J. Johnston & John E. Willard;Exchange Reaction Between C12 and CC14
+J07;J. F. Vedder;Micrometeorites
+J08;LeRoy Fothergill;Biological Warfare
+J09;M. Yokayama et al;Chemical & Serological Characteristics
+J10;B. J. D. Meeuse;The Story of Pollination
+J11;Clifford H Pope;The Ciant Snakes
+J12;Richard F McLaughlin et al.;A Study of the Subgross Pulmonary Anatomy
+J13;S. Idell Pyle et al.;Onsets, Completions & Spans
+J14;Jacob Robbins et al.;The Thyroid-Stimulating Hormone
+J15;J. W. C. Hagstrom et. al.;Debilitating Muscular Weakness
+Jl6;A. N. Nagaraj & L. M. Black;Localization of Wound-Tumor Virus Antigen
+J17;E. Gellhorn;Prolegomena to a Theory of the Emotions
+J18;Kenneth Hoffman & Ray Kunze;Linear Algebra
+Jl9;Frederick Mosteller et al.;Probability with Statistical Applications
+J20;R. P. Jerrard;Inscribed Squares in Plane Curves
+J21;C. R. Wylie, Jr.;Line Involutions in S3
+J22;Max F. Millikan & Donald L. Blackmer, editors;The Emerging Nations
+J23;Joyce O. Hertzler;American Social Institutions
+J24;Howard J. Parad;Preventive Casework: Problems & Implications
+J25;Sister Claire M. Sawyer;Some Aspects of Fertility of a Tri-Racial Isolate
+J26;Frank Lorimer;Demographic Information on Tropical Africa
+J27;Dale L. Womble;Functional Marriage Course for the Already Married
+J28;William H. Ittelson & Samuel B. Kutash, editors;Perceptual Changes in Psychopathology
+J29;Jesse W. Grimes & Wesley Allinsmith;Compulsivity, Anxiety & School Achievement
+J30;Raymond J. Corsini;Roleplaying in Business & Industry
+J31;Harold Searles;Schizophrenic Communication
+J32;Hugh Kelly & Ted Ziehe;Glossary Lookup Made Easy
+J33;Ralph Bc Long;The Sentence & Tts Parts
+J34;H.A. Cleason;Review of African Language Studies
+J35;A. T. Kroeber;Semantic Contribution of Lexicostatistics
+J36;D. F. Fleming;The Cold War & Its Origins
+J37;Douglas Ashford;Elections' in Morocco: Progress or Confusion
+J38;Committee for Economic Development;Distressed Areas in a Growing Economy
+J39;William O'Connor;Stocks, Wheat & Pharaohs
+J40;James J. O'Leary;The outlook for Interest Rates in 1961
+J41;Allan J. Braff & Roger F. Miller;Wage-Price Policies Under Public Pressure
+J42;Morton A. Kaplan ~ Nicholas Katzenbach;The Political Foundation of Internationa1 Law
+J43;Wallace Mendelson;Justices Black & Frankfurter
+J44;J. Mitchell Reese, Jr,;Reorganization Transfers
+J45;Albert Schreiber et al.;Defense Procurement & Small Business
+J46;Irving Perluss;Agricultural Labor Disputes in California 1960
+J47;William S. Ragan;Teaching America's Children.
+J48;Paul Cooke;Desegregated Education in the Middle-South Region
+J49;Robert J. Havighurst;Social-Class Influences on American Education
+J50;James C. Bonbright;Principles of Public Utility Rates
+J51;Irving L. Horowitz;Philosophy, Science & the Sociology of Knowledge
+J52;Brand Blanshard;The Emotive Theory
+J53;William S. Haymond;Is Distance an Original Factor in Vision?
+J54;Chester G. Starr;The Origins of Greek Civilization 1100-650 B. C
+J55;Jim B. Pearson;The Maxwell Land Grant
+J56;Edwin L. Bigelow & Nancy H. Otis;Manchester, Vermont, A Pleasant Land
+J57;J. H. Hexter;Thomas More: on the Margins of Modernity
+J58;John M, Ray;Rhode Island's Reactions to John Brown's Raid
+J59;Clement Greenberg;Collage
+J60;Robert A. Futterman;The Future of Our Cities
+J61;Allyn Cox;Completing & Restoring the Capitol Frescos
+J62;Jimmy Ernst;A Letter to Artists of the Soviet Union
+J63;John H. Schaar;Escape from Authority, Perspectives of Erich Fromm
+J64;Katherine G. McDonald;Figures of Rebellion
+J65;Samuel Hynes;The Pattern of Hardy's Poetry
+J66;Kenneth Rexroth;Disengagament: The Art of the Beat Generation
+J67;William Whallon;The Diction of Beowulf
+J68;Charles R. Forker;The Language of Hands in Great Expectations
+J69;I. B. M. Corporation;IBM 7070, Autocoder Reference Manual
+J70;Ross E. McKinney & Howard Edde;Aerated Lagoon for Suburban Sewage Disposal
+J71;Thomas D. McGrath;Submarine Defense
+J72;Mellon Institute;"Annual Report; 1960, Independent Research"
+J73;Nat'l Research Council;Directory of Continuing Numerical Data Projects
+J74;Harlan W. Nelson;Food Preservation by Ionizing Radiation
+J75;W. K. Asbeck;Forces in Coatings Removal Knife Cutting Method
+J76;Joel Frados, editor;Survey of Foamed Plastics
+J77;William D. Appel, editor;1961 Technical Manual of American Ass'n of Textile Chemists & Colorists
+J78;Paul J. Dolon & Wilfrid F. Niklas;Gain & Resolution of Fiber Optic Intensifier
+J79;Rutherford Aris;The O'ptim.A1 Design of Chemical Reactors
+J80;C. J. Savant Jr. & R. C. Howard;Principles of Inertial Navigation
+K01;Christopher Davis;First Family
+K02;Clayton C. Barbeau;The Ikon
+K03;Tristram Coffin;Not to the Swift
+K04;W. E. B. Du Bois;Worlds of Color
+K05;David Stacton;The Judges of the Secret Court
+K06;Louis Zara;Dark Rider
+K07;Francis Pollini;Night
+K08;Guy Endore;Voltaire! Voltaire!
+K09;Howard Fast;April Morning
+K10;Gladys H. Barr;The Master of & Geneva
+K11;Robert Penn Warren;Wilderness
+K12;Gerald Green;The Heartless Light
+Kl3;William Maxwell;The Chateau
+K14;Irving Stone;The Agony & the Ecstasy
+K15;Ann Hebson;The Lattimer Legend
+K16;Stephen Longstreet;Eagles Where I Walk
+Kl7;Leon Uris;Mila 8
+K18;John Dos Passos;Midcentury
+K19;Robert J Duncan;The Voice of Strangers
+K20;Guy Bolton;The Olympians
+K21;Bruce Palmer;My Brother's Keeper
+K22;John Cheever;The Brigadier & the Golf Widow
+K23;Prieda Arkin;The Tight of the Sea
+K24;W. H. Gass;The Pedersen Kid
+K25;Arthur Miller;The Prophecy
+K26;Jane G. Rushing;Against the Moon
+K27;E. Lucas Myers;The Vindication of Dr. Nestor
+K28;Sallie Bingham;Moving Day
+K29;Marvin Schiller;The Sheep's in the Meadow.
+L01;Winfred Van Atta;Shock Treatment
+L02;A. A. Fair;Bachelors Get Lonely
+L03;Amber Dean;Encounter With Evil
+L04;David Alexander;Bloodstain
+L05;Brett Halliday;The Careless Corpse
+L06;Thomas B. Dewey;Hunter at Large
+L07;Genevieve Golden;Deadlier Than the Male
+L08;Dell Shannon;The Ace of Spades
+L09;Mignon G. Eberhart;The Cup, the Blade or the Swords
+L10;Harry Bleaker;Impact
+L11;Hampton Stone;The Man Who Looked Death in the Eye
+L12;Whit Masterson;Evil Come, Evil Go
+L13;Dolores Hitchens;Footsteps in the Night
+Ll4;Frances & Richard Lockridge;Murder Has Its Points
+L15;Doris M. Disney;Mrs. Meeker's Money
+L16;Alex Gordon;The Cipher
+L17;Brent James;Night of the Kill
+L18;George H. Coxe;Error of Judgment
+L19;Brad Williams;Make a Killing
+L20;Ed Lacy;Death by the Numbers
+L21;Helen McCloy;The Black Disk
+L22;S. L. M. Barlow;Monologue of Murder
+L23;J. W. Rose;Try My Sample Murders
+L24;Fredric Brown;The Murders
+M01;Robert Heinlein;Stranger in a Strange Land
+M02;Philip J. Farmer;The Lovers
+M03;James Blish;The Star Dwellers
+M04;Jim Harmon;The Planet with No Nightmare
+M05;Anne McCaffrey;The Ship Who Sang
+M06;Cordwainer Smith;A Planet Named Shayol
+N0l;Wayne D. Overholser;The Killer Marshall
+N02;Clifford Irving;The Valley
+N03;Cliff Farrell;The Trail of the Tattered Star
+N04;James D. Horan;The Shadow Catcher
+N05;Richard Ferber;Bitter Valley
+N06;Thomas Anderson;Here Comes Pete Now
+N07;Todhunter Ballard;The Night Riders
+N08;Mary Savage;Just for Tonight
+N09;Jim Thompson;The Transgressors
+N10;Joseph Chadwick;No Land Is Free
+N11;Gene Caesar;Rifle for Rent
+N12;Edwin Booth;Outlaw Town
+N13;Martha F. McKeown;Mountains Ahead
+N14;Peter Field;Rattlesnake Ridge
+N15;Donald J. Plantz;Sweeney Squadron
+N16;Ralph J. Salisbury;On the Old Sante Fe Trail to Siberia
+N17;Richard S. Prather;The Bawdy Beautiful
+N18;Peter Bains;With Women Education Pays off
+Nl9;David Jackson;The English Gardens
+N20;T. C. McClary;The Flooded Dearest
+N21;C. T. Sommers;The Beautiful Mankillers of Eromonga
+N22;Gordon Johnson;A Matter of Curiosity.
+N23;Wheeler Hall;Always Shoot to Kill
+N24;T. K. Brown III;The Fifteenth Station
+N25;Wesley Newton;Aid & Comfort to the Enemy
+N26;Paul Brock;Toughest Lawman in the Old West
+N27;James Hines & James Morris;Just Any Girl
+N28;Ralph Grimshaw;Mrs. Hacksaw, New Orleans Society Killer
+N29;Harlan Ellison;Riding the Dark Train Out
+P01;Octavia Waldo;A Cup of the Sun
+P02;Ann Ritner;Seize a Nettle
+P03;Clark McMeekin;The Fairbrothers
+P04;B. J. Chute;The Moon & the Thorn
+P05;Allan R. Bosworth;The Crows of Edwina Hill
+P06;Richard Tiernan;Land of the Silver Dollar
+P07;Vina Delmar;The Big Family
+P08;R. Leslie Course;With Gall & Honey
+P09;Jesse Hill Ford;Mountains of Gilead
+P10;Jay Williams;The Forger
+P11;Bessie Breuer;Take Care of My Roses
+P12;Morley Callaghan;A Passion in Rome
+P13;Frank B. Hanes;The Fleet Rabble
+P14;Livingston Biddle, Jr.;Sam Bentley's Island
+P15;Loretta Burrough;The Open Door
+P16;Margery F. Brown;A Secret Between Friends
+P17;Al Hine;The Huntress
+P18;Anonymous;No Room in My Heart to For Give
+Pl9;Anonymous;This Cancer Victim May Ruin My Life
+P20;Spencer Norris;Dirty Dog Inn
+P21;Elizabeth Spencer;The White Azalea
+P22;Anonymous;A Husband Stealer from Way Back
+P23;Barbara Robinson;Something Very Much in Common
+P24;Samuel Elkin;The Ball Player
+P25;William Butler;The Pool at Ryusenji
+P26;Ervin D. Krause;The Snake
+P27;Lee McGiffin;Measure of a Man
+P28;Carol Hoover;The Shorts on the Bedroom Floor
+P29;Robert Carson;My Hero
+R01;Anita Loos;No Mother to Guide Her
+R02;Jean Mercier;Whatever You Do, Don't Panic
+R03;Patrick Dennis;Little Me
+R04;Edward Streeter;The Chairman of the Bored
+R05;Evan Esar;Humorous English
+R06;James Thurber;The Future, If Any, of Comedy
+R07;John H. Wildman;Take It Off
+R08A;Leo Lemon;Catch Up With
+R08B;Leo Lemon;Something to Talk About
+R09;S. J. Perelman;The Rising Gorge

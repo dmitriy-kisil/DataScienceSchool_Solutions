@@ -1,0 +1,16 @@
+AF|Afghanistan
+AL|Albania
+AS|American Samoa
+AD|Andorra
+AO|Angola
+AI|Anguilla
+AQ|Antarctica
+AG|Antigua And Barbuda
+AR|Argentina
+AM|Armenia
+AW|Aruba
+AU|Australia
+AT|Austria
+AZ|Azerbaijan
+AN|Netherlands Antilles
+AE|United Arab Emirates
